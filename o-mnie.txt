@@ -1,2 +1,4 @@
 Kalina Białek
 słowniki w Pythonie
+Nowa Fantastyka
+niebieski
