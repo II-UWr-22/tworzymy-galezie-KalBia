@@ -1,1 +1,2 @@
 Kalina Białek
+słowniki w Pythonie
