@@ -1,0 +1,51 @@
+Linux kalina-VirtualBox 5.15.0-48-generic #54~20.04.1-Ubuntu SMP Thu Sep 1 16:17:26 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        4018236 kB
+MemFree:          254248 kB
+MemAvailable:    2735424 kB
+Buffers:           96972 kB
+Cached:          2536572 kB
+SwapCached:            0 kB
+Active:           985108 kB
+Inactive:        2461176 kB
+Active(anon):       1532 kB
+Inactive(anon):   829556 kB
+Active(file):     983576 kB
+Inactive(file):  1631620 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:        945416 kB
+SwapFree:         944380 kB
+Dirty:             57180 kB
+Writeback:             0 kB
+AnonPages:        812872 kB
+Mapped:           367328 kB
+Shmem:             30144 kB
+KReclaimable:     141176 kB
+Slab:             198428 kB
+SReclaimable:     141176 kB
+SUnreclaim:        57252 kB
+KernelStack:        6752 kB
+PageTables:        14232 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     2954532 kB
+Committed_AS:    4150312 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       33448 kB
+VmallocChunk:          0 kB
+Percpu:             1752 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      202688 kB
+DirectMap2M:     3991552 kB
